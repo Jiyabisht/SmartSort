@@ -2,7 +2,8 @@
 A real-time smart search engine that compares product prices across Amazon and Flipkart to help users find the best deals instantly.
 
 # Features
-🔍 Real-Time Price Comparison
+🔍 Real-Time Price Comparison: 
+
 Fetches and compares product prices from Amazon and Flipkart in real time.
 
 🧹 Duplicate Elimination
